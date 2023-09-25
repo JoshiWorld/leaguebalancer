@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="LeagueBalancer.exe" version="1.0.0.0" publicKeyToken="be40c148a97633b5" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="LeagueBalancer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="LeagueBalancer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Zugangsebene für das Windows-Benutzerkonto ändern möchten, ersetzen Sie den 
+          requestedExecutionLevel-Knoten durch eines der folgenden Elemente.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Löschen Sie den requestedExecutionLevel-Knoten, wenn Sie 
+         zum Gewährleisten der Abwärtskompatibilität die Datei- und Registrierungsvirtualisierung verwenden möchten.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LeagueBalancer.exe" size="2075112">
+      <assemblyIdentity name="LeagueBalancer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>UO8eQYVlIu5ZSt5wdq167pOby9jAsp7UJMIbOLVcINg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="icon.ico" size="105662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1bLGvwlKYmtyx0x+ecQt/VaRhVkbCuvT/tXwSsPPkDA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="LeagueBalancer.exe.config" size="184">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FihlZtVNgcNyH37Pf0Jtll3jZOm+L55ijXNjtoS2/mo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-PEDL973\Joshua" issuerKeyHash="90bb8eebb2d1d32c4d31c982a7aec95d98456907" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>APw5qReJaYnw0C6ic7CWOaCPxEk0HD3xjBE30TRvks4=</DigestValue></Reference></SignedInfo><SignatureValue>F3QO/n1OwovEhCw+Iqx+sJJ1d2NCjZyAu1zreLNqmh1mn7Y20XmVKbFrw7OHSvyA4uyn/rF10xcpXpJqdeV52JFwUH+7ELSDMWglhdXJ1w47oTuKltPFZIniZEDG6zqcRlKdQwXgaTpHYg+bbEIL+iH/YeCIOYsBi4FgHgTMfM4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v5vjV6BrTcQQ9Ymg2Ge2ehimIotToLwRgLIXP8LZ5v+e0GyaW+3Iu8+jxUI2Y28m9lCNSQeqmaZxKWWf6Rv62d6an9WF4/+4bairxOgTgXaicKoNfhOlO+CKSXaaKJKMErRwjlT5OLyjfGgxuheIWfSGSCCGXfTMNG7jnwpdcmk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ce926f34d137118cf13d1c3449c48fa03996b073a22ed0f089698917a939fc00" Description="" Url=""><as:assemblyIdentity name="LeagueBalancer.exe" version="1.0.0.0" publicKeyToken="be40c148a97633b5" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-PEDL973\Joshua</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Wji2nlRBChVbO3P/CoBmAhyw259pkAG3xFaAgXCbNCY=</DigestValue></Reference></SignedInfo><SignatureValue>FQDIqrxGWdz/IM+mYlolPhlWdpj6JPWpOPpAzuj7TGRXhUEXkbcoHZ23YtnBllpY0r7XETtkVjwHvLKW60c4D+/olYDuuTBSNdCNAUpsG8iX6K5HvpBDrgk/5LPJDYcgGfkPredxP7LSN1AXOVoHRUJ/1B4K6Lg3n75wOSCDiB8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>v5vjV6BrTcQQ9Ymg2Ge2ehimIotToLwRgLIXP8LZ5v+e0GyaW+3Iu8+jxUI2Y28m9lCNSQeqmaZxKWWf6Rv62d6an9WF4/+4bairxOgTgXaicKoNfhOlO+CKSXaaKJKMErRwjlT5OLyjfGgxuheIWfSGSCCGXfTMNG7jnwpdcmk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQFmi8Xm3I+4tLB+mAbY6QejANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtAFAARQBEAEwAOQA3ADMAXABKAG8AcwBoAHUAYTAeFw0yMzA5MjUyMTIwMzJaFw0yNDA5MjUwMzIwMzJaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0AUABFAEQATAA5ADcAMwBcAEoAbwBzAGgAdQBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/m+NXoGtNxBD1iaDYZ7Z6GKYii1OgvBGAshc/wtnm/57QbJpb7ci7z6PFQjZjbyb2UI1JB6qZpnEpZZ/pG/rZ3pqf1YXj/7htqKvE6BOBdqJwqg1+E6U74IpJdpookowStHCOVPk4vKN8aDG6F4hZ9IZIIIZd9Mw0buOfCl1yaQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAFkwBcxJB0EgcY90wV3t5W0/ZRwYr1ghX0NvpvMvvtILpk9RxWLdwlttQpYCFhKsQseuRwS70vBKu3v15pbnIaa9vz5HDFCCCP9fQrdqf8BIN1lgBeuxWKr2DH+QG2D9uOtm42Y6tTeajFkLbwcHINPeb0j70C0K4mfyPyTSrrKp</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

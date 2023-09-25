@@ -1,0 +1,32 @@
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\bin\Release\LCGB v1.0.1.0.exe.config
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\bin\Release\LCGB v1.0.1.0.exe
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\bin\Release\LCGB v1.0.1.0.pdb
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\bin\Release\Newtonsoft.Json.xml
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\bin\Release\RiotNet.xml
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\obj\Release\LeagueBalancer.csproj.AssemblyReference.cache
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\obj\Release\LeagueBalancer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\obj\Release\LCGB.Key.resources
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\obj\Release\LCGB.Properties.Resources.resources
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\obj\Release\LeagueBalancer.csproj.GenerateResource.cache
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\obj\Release\LeagueBalancer.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\obj\Release\LeagueBalancer.csproj.Fody.CopyLocal.cache
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\obj\Release\LeagueBalancer.csproj.CopyComplete
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\obj\Release\LCGB v1.0.1.0.exe
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\obj\Release\LCGB v1.0.1.0.pdb
+C:\Users\Joshua\Desktop\LCGB-RAPI\LCGB\obj\Release\LeagueBalancer.MainForm.resources
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\bin\Release\Newtonsoft.Json.xml
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\bin\Release\RiotNet.xml
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\obj\Release\LeagueBalancer.csproj.AssemblyReference.cache
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\obj\Release\LeagueBalancer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\obj\Release\LeagueBalancer.MainForm.resources
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\obj\Release\LeagueBalancer.csproj.GenerateResource.cache
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\obj\Release\LeagueBalancer.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\obj\Release\LeagueBalancer.csproj.Fody.CopyLocal.cache
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\obj\Release\LeagueBalancer.csproj.CopyComplete
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\bin\Release\LeagueBalancer.exe.config
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\bin\Release\LeagueBalancer.exe
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\bin\Release\LeagueBalancer.pdb
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\obj\Release\LeagueBalancer.Key.resources
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\obj\Release\LeagueBalancer.Properties.Resources.resources
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\obj\Release\LeagueBalancer.exe
+C:\Users\Joshua\Desktop\LeagueBalancer\LCGB\obj\Release\LeagueBalancer.pdb
